@@ -1,0 +1,6 @@
+torch==2.2.2
+torchvision==0.17.2
+torch_geometric==2.5.3
+torchinfo==1.8.0
+xformers==0.0.25.post1
+pytorch-ignite==0.5.0.post2
