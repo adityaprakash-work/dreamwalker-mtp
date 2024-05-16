@@ -27,10 +27,6 @@ class GATEncoder(pt.nn.Module):
         - dropout (float): Dropout rate.
         - gat_heads (int): Number of GAT heads.
         - n_blocks (int): Number of GAT blocks.
-
-    Returns:
-    -------
-        pt.Tensor: Encoded data.
     """
 
     def __init__(
